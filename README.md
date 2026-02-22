@@ -22,7 +22,7 @@ Commands stream in one-by-one as the model generates them. Press Enter to accept
 ## Install
 
 ```zsh
-git clone https://github.com/YOUR_USERNAME/zsh-ai-autocomplete ~/.zsh/zsh-ai-autocomplete
+git clone https://github.com/aomerk/zsh-ai-autocomplete ~/.zsh/zsh-ai-autocomplete
 zsh ~/.zsh/zsh-ai-autocomplete/install.zsh
 ```
 

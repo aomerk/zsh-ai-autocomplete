@@ -2,7 +2,7 @@
 # install.zsh — One-shot installer for zsh-ai-autocomplete
 #
 # Usage:
-#   git clone https://github.com/YOUR_USERNAME/zsh-ai-autocomplete ~/.zsh/zsh-ai-autocomplete
+#   git clone https://github.com/aomerk/zsh-ai-autocomplete ~/.zsh/zsh-ai-autocomplete
 #   zsh ~/.zsh/zsh-ai-autocomplete/install.zsh
 #
 # What this does:
